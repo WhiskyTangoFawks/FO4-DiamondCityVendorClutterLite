@@ -1,0 +1,6647 @@
+{
+  "FormKey": "001E53:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262272,
+  "EditorID": "DmndFallons01",
+  "Fallout4MajorRecordFlags": [
+    "0x80",
+    "Compressed"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Fallon's Basement"
+  },
+  "Flags": [
+    "IsInteriorCell"
+  ],
+  "PreCombinedFilesTimestamp": 10427,
+  "Lighting": {
+    "AmbientColor": "#00282417",
+    "DirectionalColor": "#003F4749",
+    "FogNearColor": "#00604F53",
+    "FogFar": 3000.0,
+    "FogPower": 0.7,
+    "AmbientColors": {
+      "DirectionalXPlus": "#000E0E0C",
+      "DirectionalXMinus": "#001D1C18",
+      "DirectionalYPlus": "#000E0E0C",
+      "DirectionalYMinus": "#001D1C18",
+      "DirectionalZPlus": "#000E0E0C",
+      "DirectionalZMinus": "#001D1C18",
+      "Specular": "#00000000"
+    },
+    "FogFarColor": "#00655549",
+    "FogMax": 0.7,
+    "Inherits": [
+      "AmbientColor",
+      "DirectionalColor",
+      "FogNear",
+      "FogFar",
+      "DirectionalRotation",
+      "DirectionalFade",
+      "ClipDistance",
+      "FogPower",
+      "FogMax",
+      "LightFadeDistances"
+    ],
+    "NearHeightRange": 10000.0,
+    "ForColorHighNear": "#0064564A",
+    "ForColorHighFar": "#00655549",
+    "HighDensityScale": 1.0,
+    "FogNearScale": 1.0,
+    "FogFarScale": 1.0,
+    "FogHighNearScale": 1.0,
+    "FogHighFarScale": 1.0,
+    "FarHeightRange": 10000.0
+  },
+  "LightingTemplate": "0C5858:Fallout4.esm",
+  "WaterHeight": 0.0,
+  "Location": "00395E:Fallout4.esm",
+  "Ownership": {
+    "Owner": "002CC6:Fallout4.esm"
+  },
+  "LockList": "002CC6:Fallout4.esm",
+  "AcousticSpace": "238EF3:Fallout4.esm",
+  "Music": "08B1D0:Fallout4.esm",
+  "ImageSpace": "17161E:Fallout4.esm",
+  "CombinedMeshes": [
+    62650702,
+    257874419,
+    322091153,
+    381158835,
+    425645762,
+    534222892,
+    551523458,
+    643226220,
+    686839835,
+    882653561,
+    920624051,
+    947460548,
+    1055938346,
+    2405358067,
+    2681706540,
+    2834323483,
+    3068107699
+  ],
+  "CombinedMeshReferences": [
+    {
+      "Reference": "0C63A9:Fallout4.esm",
+      "CombinedMesh": 62650702
+    },
+    {
+      "Reference": "0C63B6:Fallout4.esm",
+      "CombinedMesh": 62650702
+    },
+    {
+      "Reference": "0C63BE:Fallout4.esm",
+      "CombinedMesh": 62650702
+    },
+    {
+      "Reference": "0C5C74:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C5C78:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C5C7A:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C5C7B:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C5EBA:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6399:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63A3:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63A4:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63A5:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63A6:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63AF:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63B0:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63B3:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63B4:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63B7:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63B8:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63BA:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63BB:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63D3:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63D4:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63D5:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63D6:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63D9:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63DA:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63E5:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63F6:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63F7:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63F8:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63F9:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63FA:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63FB:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63FC:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63FF:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6400:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6402:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6403:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6408:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6409:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C640A:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C640B:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C640C:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C640D:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C640E:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C640F:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6410:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6413:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6414:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6415:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6419:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C641B:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C641C:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6427:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C642E:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C642F:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6430:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6431:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6432:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6433:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6434:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6435:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6438:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6439:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C643A:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C643B:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C643F:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6440:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6441:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6442:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6443:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6444:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6445:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6446:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6447:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6448:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C6449:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0D3533:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0D3534:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0D3535:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0D353F:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0D3540:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0D3541:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0D3543:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0D3544:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0D3546:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0D3547:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0D3548:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0D3549:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0D354B:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0D3554:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0D3555:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0D3556:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0D3562:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "12DBD4:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "138E83:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "138E84:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "138E88:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "138E96:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "138E9F:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "138EA2:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "138EA3:Fallout4.esm",
+      "CombinedMesh": 257874419
+    },
+    {
+      "Reference": "0C63A7:Fallout4.esm",
+      "CombinedMesh": 322091153
+    },
+    {
+      "Reference": "0C63A8:Fallout4.esm",
+      "CombinedMesh": 322091153
+    },
+    {
+      "Reference": "0C63B1:Fallout4.esm",
+      "CombinedMesh": 322091153
+    },
+    {
+      "Reference": "0C63B2:Fallout4.esm",
+      "CombinedMesh": 322091153
+    },
+    {
+      "Reference": "138E9D:Fallout4.esm",
+      "CombinedMesh": 322091153
+    },
+    {
+      "Reference": "0C5E5A:Fallout4.esm",
+      "CombinedMesh": 381158835
+    },
+    {
+      "Reference": "0C5C73:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C5C75:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C6395:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C6396:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C639E:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C639F:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C63A0:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C63A1:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C63A2:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C63CD:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C63CF:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C63D0:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C63D1:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C63D2:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C63DC:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C63DD:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C63DE:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C63E8:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C63E9:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C63EA:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C6401:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C6405:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C6406:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C6407:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C6422:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C6424:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C6425:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C6426:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C6428:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C6436:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C6437:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0D3536:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0D3537:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0D3542:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0D354A:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0D354C:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0D354D:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0D354E:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0D354F:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0D3550:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0D3551:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0D3552:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0D3553:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "138E8A:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "138EA0:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "138EA4:Fallout4.esm",
+      "CombinedMesh": 425645762
+    },
+    {
+      "Reference": "0C5C7D:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "0C5C7E:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "0C639A:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "0C639C:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "0C63AA:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "0C63AB:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "0C63B5:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "0C63B9:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "0C63BC:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "0C63DB:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "0C63E1:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "0C6411:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "0C6412:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "0C641A:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "0C641D:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "0C641E:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "0C6420:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "0C642C:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "0C642D:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "0D353D:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "138E85:Fallout4.esm",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "008A0A:DCVendorClutter.esp",
+      "CombinedMesh": 534222892
+    },
+    {
+      "Reference": "0D3531:Fallout4.esm",
+      "CombinedMesh": 551523458
+    },
+    {
+      "Reference": "0D3538:Fallout4.esm",
+      "CombinedMesh": 551523458
+    },
+    {
+      "Reference": "0D3539:Fallout4.esm",
+      "CombinedMesh": 551523458
+    },
+    {
+      "Reference": "0D352F:Fallout4.esm",
+      "CombinedMesh": 643226220
+    },
+    {
+      "Reference": "0D353C:Fallout4.esm",
+      "CombinedMesh": 643226220
+    },
+    {
+      "Reference": "0D353E:Fallout4.esm",
+      "CombinedMesh": 643226220
+    },
+    {
+      "Reference": "0C5C77:Fallout4.esm",
+      "CombinedMesh": 686839835
+    },
+    {
+      "Reference": "0C5C79:Fallout4.esm",
+      "CombinedMesh": 686839835
+    },
+    {
+      "Reference": "0C6398:Fallout4.esm",
+      "CombinedMesh": 686839835
+    },
+    {
+      "Reference": "0C63AC:Fallout4.esm",
+      "CombinedMesh": 686839835
+    },
+    {
+      "Reference": "0C63AD:Fallout4.esm",
+      "CombinedMesh": 686839835
+    },
+    {
+      "Reference": "0C63AE:Fallout4.esm",
+      "CombinedMesh": 686839835
+    },
+    {
+      "Reference": "0C63D7:Fallout4.esm",
+      "CombinedMesh": 686839835
+    },
+    {
+      "Reference": "0C63E2:Fallout4.esm",
+      "CombinedMesh": 686839835
+    },
+    {
+      "Reference": "0C63E3:Fallout4.esm",
+      "CombinedMesh": 686839835
+    },
+    {
+      "Reference": "0C63E4:Fallout4.esm",
+      "CombinedMesh": 686839835
+    },
+    {
+      "Reference": "0C6418:Fallout4.esm",
+      "CombinedMesh": 686839835
+    },
+    {
+      "Reference": "0C641F:Fallout4.esm",
+      "CombinedMesh": 686839835
+    },
+    {
+      "Reference": "0C6429:Fallout4.esm",
+      "CombinedMesh": 686839835
+    },
+    {
+      "Reference": "0C642A:Fallout4.esm",
+      "CombinedMesh": 686839835
+    },
+    {
+      "Reference": "0C643C:Fallout4.esm",
+      "CombinedMesh": 686839835
+    },
+    {
+      "Reference": "0C643D:Fallout4.esm",
+      "CombinedMesh": 686839835
+    },
+    {
+      "Reference": "0C643E:Fallout4.esm",
+      "CombinedMesh": 686839835
+    },
+    {
+      "Reference": "138EA5:Fallout4.esm",
+      "CombinedMesh": 686839835
+    },
+    {
+      "Reference": "0C63BD:Fallout4.esm",
+      "CombinedMesh": 882653561
+    },
+    {
+      "Reference": "0C63DF:Fallout4.esm",
+      "CombinedMesh": 920624051
+    },
+    {
+      "Reference": "0C63E0:Fallout4.esm",
+      "CombinedMesh": 920624051
+    },
+    {
+      "Reference": "0C63E6:Fallout4.esm",
+      "CombinedMesh": 920624051
+    },
+    {
+      "Reference": "0C6421:Fallout4.esm",
+      "CombinedMesh": 920624051
+    },
+    {
+      "Reference": "0D352E:Fallout4.esm",
+      "CombinedMesh": 920624051
+    },
+    {
+      "Reference": "0D3530:Fallout4.esm",
+      "CombinedMesh": 920624051
+    },
+    {
+      "Reference": "0D353A:Fallout4.esm",
+      "CombinedMesh": 920624051
+    },
+    {
+      "Reference": "0D353B:Fallout4.esm",
+      "CombinedMesh": 920624051
+    },
+    {
+      "Reference": "0D3545:Fallout4.esm",
+      "CombinedMesh": 920624051
+    },
+    {
+      "Reference": "0D3560:Fallout4.esm",
+      "CombinedMesh": 920624051
+    },
+    {
+      "Reference": "0D3561:Fallout4.esm",
+      "CombinedMesh": 920624051
+    },
+    {
+      "Reference": "008A08:DCVendorClutter.esp",
+      "CombinedMesh": 920624051
+    },
+    {
+      "Reference": "008A09:DCVendorClutter.esp",
+      "CombinedMesh": 920624051
+    },
+    {
+      "Reference": "0C5C7C:Fallout4.esm",
+      "CombinedMesh": 947460548
+    },
+    {
+      "Reference": "0C639B:Fallout4.esm",
+      "CombinedMesh": 947460548
+    },
+    {
+      "Reference": "0C5C76:Fallout4.esm",
+      "CombinedMesh": 1055938346
+    },
+    {
+      "Reference": "0C6393:Fallout4.esm",
+      "CombinedMesh": 1055938346
+    },
+    {
+      "Reference": "0C6394:Fallout4.esm",
+      "CombinedMesh": 1055938346
+    },
+    {
+      "Reference": "0C6397:Fallout4.esm",
+      "CombinedMesh": 1055938346
+    },
+    {
+      "Reference": "0C639D:Fallout4.esm",
+      "CombinedMesh": 1055938346
+    },
+    {
+      "Reference": "0C63CE:Fallout4.esm",
+      "CombinedMesh": 1055938346
+    },
+    {
+      "Reference": "0C63D8:Fallout4.esm",
+      "CombinedMesh": 1055938346
+    },
+    {
+      "Reference": "0C63EB:Fallout4.esm",
+      "CombinedMesh": 1055938346
+    },
+    {
+      "Reference": "0C6404:Fallout4.esm",
+      "CombinedMesh": 1055938346
+    },
+    {
+      "Reference": "0C6423:Fallout4.esm",
+      "CombinedMesh": 1055938346
+    },
+    {
+      "Reference": "0C63C0:Fallout4.esm",
+      "CombinedMesh": 2405358067
+    },
+    {
+      "Reference": "0C63C1:Fallout4.esm",
+      "CombinedMesh": 2405358067
+    },
+    {
+      "Reference": "0C63C2:Fallout4.esm",
+      "CombinedMesh": 2405358067
+    },
+    {
+      "Reference": "0C63C3:Fallout4.esm",
+      "CombinedMesh": 2405358067
+    },
+    {
+      "Reference": "0C63C4:Fallout4.esm",
+      "CombinedMesh": 2405358067
+    },
+    {
+      "Reference": "0C63C5:Fallout4.esm",
+      "CombinedMesh": 2405358067
+    },
+    {
+      "Reference": "0C63C6:Fallout4.esm",
+      "CombinedMesh": 2405358067
+    },
+    {
+      "Reference": "0C63C7:Fallout4.esm",
+      "CombinedMesh": 2405358067
+    },
+    {
+      "Reference": "0C63C8:Fallout4.esm",
+      "CombinedMesh": 2405358067
+    },
+    {
+      "Reference": "0C63C9:Fallout4.esm",
+      "CombinedMesh": 2405358067
+    },
+    {
+      "Reference": "0C63CB:Fallout4.esm",
+      "CombinedMesh": 2405358067
+    },
+    {
+      "Reference": "0C63CC:Fallout4.esm",
+      "CombinedMesh": 2405358067
+    },
+    {
+      "Reference": "0C63E7:Fallout4.esm",
+      "CombinedMesh": 2405358067
+    },
+    {
+      "Reference": "0C63F0:Fallout4.esm",
+      "CombinedMesh": 2405358067
+    },
+    {
+      "Reference": "0C63F1:Fallout4.esm",
+      "CombinedMesh": 2405358067
+    },
+    {
+      "Reference": "0C63F2:Fallout4.esm",
+      "CombinedMesh": 2405358067
+    },
+    {
+      "Reference": "0C63F3:Fallout4.esm",
+      "CombinedMesh": 2405358067
+    },
+    {
+      "Reference": "0C63CA:Fallout4.esm",
+      "CombinedMesh": 2681706540
+    },
+    {
+      "Reference": "0C63EE:Fallout4.esm",
+      "CombinedMesh": 2681706540
+    },
+    {
+      "Reference": "0C63EF:Fallout4.esm",
+      "CombinedMesh": 2681706540
+    },
+    {
+      "Reference": "0C63F4:Fallout4.esm",
+      "CombinedMesh": 2681706540
+    },
+    {
+      "Reference": "0C63BF:Fallout4.esm",
+      "CombinedMesh": 2834323483
+    },
+    {
+      "Reference": "0C63EC:Fallout4.esm",
+      "CombinedMesh": 2834323483
+    },
+    {
+      "Reference": "0C63ED:Fallout4.esm",
+      "CombinedMesh": 3068107699
+    }
+  ],
+  "NavigationMeshes": [
+    {
+      "FormKey": "12DBD3:Fallout4.esm",
+      "IsCompressed": true,
+      "MajorRecordFlagsRaw": 262144,
+      "Fallout4MajorRecordFlags": [
+        "Compressed"
+      ],
+      "NavmeshGeometry": {
+        "Parent": {
+          "MutagenObjectType": "CellNavmeshParent",
+          "Parent": "001E53:Fallout4.esm"
+        },
+        "Vertices": [
+          "1366.0266, -194.7806, 350.09015",
+          "1555.6514, -417.16214, 238.60458",
+          "1303.1792, -446.97348, 348.51086",
+          "1444.4991, -403.58795, 238.60461",
+          "1295.6815, -503.2665, 347.81226",
+          "1239.1198, -66.23227, 64.137474",
+          "983.05646, -576.2682, 63.999985",
+          "1170.4723, -572.5015, 63.999985",
+          "1020.05475, -417.0818, 63.999985",
+          "1013.4079, -357.45508, 65.60834",
+          "1094.0583, -70.1241, 71.620804",
+          "1124.7845, 117.08405, 64.14234",
+          "1106.5529, 38.86739, 63.99997",
+          "986.93445, -482.29266, 65.63857",
+          "1016.22345, -487.4696, 63.999985",
+          "1346.8102, -473.32657, 67.53766",
+          "1315.1912, -504.19467, 346.12006",
+          "1453.2341, -346.6053, 238.60461",
+          "1371.066, -380.51105, 65.28277",
+          "1166.998, -268.20474, 64.13748",
+          "1363.646, -333.86996, 65.30983",
+          "1411.6885, -260.1692, 65.36415",
+          "1130.1863, -102.825516, 65.36401",
+          "1215.2233, -162.8243, 64.137474",
+          "1286.3867, -251.35132, 65.64803",
+          "1234.4093, 46.063732, 67.20638",
+          "1393.5857, 9.540081, 67.35529",
+          "1454.8981, -207.4588, 65.70299",
+          "1115.9796, -338.2868, 66.23444",
+          "1205.9369, -415.35413, 69.71868",
+          "1280.0823, -381.74905, 66.135475",
+          "1331.7715, 107.37276, 63.999985",
+          "1457.0358, 95.96828, 66.32796",
+          "1526.6334, 57.951614, 66.785904",
+          "1295.0121, 49.378998, 68.559555",
+          "1443.3397, -83.28159, 65.88727",
+          "1302.2954, -51.98131, 67.36746",
+          "1282.0131, -174.21162, 65.08339",
+          "1558.7932, -108.902794, 64.67564",
+          "1509.1327, -328.404, 237.7093",
+          "1564.7571, -334.6289, 237.62225",
+          "1576.9648, -263.60382, 150.08969",
+          "1562.5695, -358.5937, 238.60454",
+          "1509.1848, -352.6373, 238.60454",
+          "1416.8629, -456.43475, 238.60457",
+          "1554.9615, -482.05765, 238.6046",
+          "1407.8235, -516.1386, 238.32059",
+          "1539.4861, -553.45447, 238.6046",
+          "1334.3473, -372.24957, 350.09015",
+          "1313.8812, -339.0387, 65.74496",
+          "1303.6942, -444.69437, 71.18134",
+          "1027.4215, -309.4545, 68.84813",
+          "1286.7823, 114.30264, 63.999985",
+          "1091.0018, -218.9948, 64.27565",
+          "1066.7137, -300.7978, 63.999985",
+          "1419.3564, -46.36557, 66.53057",
+          "1519.9705, -41.538837, 65.811264",
+          "1467.0846, 28.760021, 66.77246",
+          "1206.6682, 122.703415, 66.711266",
+          "1415.2128, -309.6898, 65.61249",
+          "1562.1936, -56.923035, 64.291916",
+          "1520.716, -178.49908, 65.23731",
+          "1584.2216, -187.27463, 63.999985",
+          "1593.6721, -116.88244, 64.47419",
+          "1515.4456, -251.90729, 150.31564",
+          "1411.9186, -539.2425, 238.60458",
+          "1365.8002, -450.62698, 292.95438",
+          "1358.6418, -510.99216, 294.66122",
+          "1320.5652, -447.675, 346.93005",
+          "1203.3062, -540.79816, 348.11493",
+          "1234.0609, -420.3733, 348.11493",
+          "1286.7249, -557.29694, 348.11496",
+          "1312.6932, -377.72885, 350.09015",
+          "1278.9583, -318.85925, 350.09015",
+          "1352.5565, -264.8243, 349.347",
+          "1288.4796, -186.7122, 350.53204",
+          "1175.6041, -523.5219, 66.971664",
+          "1189.791, -493.5383, 67.762794",
+          "1260.2072, -380.19366, 349.11813",
+          "994.99005, -442.31433, 64.70983",
+          "1110.294, -186.66093, 64.59602",
+          "1137.6208, -297.64905, 65.08855",
+          "1042.9066, -275.7901, 67.666214",
+          "1520.77, -29.599976, 65.92822",
+          "1562.6687, -109.78942, 64.65325",
+          "1362.1493, -194.37717, 350.11224",
+          "1341.3864, -449.569, 323.50833",
+          "1385.6312, -453.59375, 273.73718",
+          "1511.1298, -302.55832, 207.97275",
+          "1513.5264, -271.54352, 172.2889",
+          "1476.8374, -197.80556, 65.54776",
+          "1452.4976, -210.38716, 65.684166",
+          "1266.2915, -367.9022, 65.891815",
+          "1180.7888, -282.0516, 64.38114",
+          "1127.9739, -348.56244, 66.699005",
+          "1173.2356, -546.12787, 65.60012",
+          "1016.5684, -423.9461, 64.17247",
+          "1132.583, 117.61923, 64.387",
+          "1230.5127, 120.15721, 66.67476",
+          "1409.3467, 101.060684, 66.40097",
+          "1291.8271, -115.067924, 66.18858",
+          "1300.9868, -59.86714, 67.2201",
+          "1295.2922, 45.48052, 68.5137",
+          "1287.4368, 48.96459, 68.39041",
+          "1241.9846, 46.47814, 67.37553",
+          "1234.5718, 42.191456, 67.100555",
+          "1237.9828, -39.126347, 64.87824",
+          "1238.164, -70.09595, 64.137474",
+          "1229.5612, -104.86908, 64.137474",
+          "1234.8673, -166.17351, 64.41569",
+          "1258.4402, -170.19257, 64.749535"
+        ],
+        "Triangles": [
+          {
+            "Vertices": "40, 41, 64",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 1,
+            "EdgeLink_2_0": 4,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 1
+          },
+          {
+            "Vertices": "41, 61, 64",
+            "EdgeLink_0_1": 6,
+            "EdgeLink_1_2": -1,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "55, 56, 26",
+            "EdgeLink_0_1": 81,
+            "EdgeLink_1_2": 15,
+            "EdgeLink_2_0": 27,
+            "Height": 253.50574,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "57, 33, 32",
+            "EdgeLink_0_1": 45,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 22,
+            "Height": 230.66496,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "40, 64, 39",
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 39,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "2, 4, 16",
+            "EdgeLink_0_1": 74,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 73,
+            "Height": 3.4028235E+38,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "41, 62, 61",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 9,
+            "EdgeLink_2_0": 1,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 1
+          },
+          {
+            "Vertices": "27, 61, 38",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 9,
+            "EdgeLink_2_0": 60,
+            "Height": 254.92906,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 1
+          },
+          {
+            "Vertices": "62, 63, 38",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 9,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 3
+          },
+          {
+            "Vertices": "61, 62, 38",
+            "EdgeLink_0_1": 6,
+            "EdgeLink_1_2": 8,
+            "EdgeLink_2_0": 7,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "31, 34, 57",
+            "EdgeLink_0_1": 23,
+            "EdgeLink_1_2": 82,
+            "EdgeLink_2_0": 22,
+            "Height": 255.2527,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "72, 48, 74",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 46,
+            "Height": 3.4028235E+38,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "14, 6, 7",
+            "EdgeLink_0_1": 28,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 36,
+            "Height": 175.831,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "35, 38, 56",
+            "EdgeLink_0_1": 60,
+            "EdgeLink_1_2": 79,
+            "EdgeLink_2_0": 81,
+            "Height": 250.99393,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "42, 39, 43",
+            "EdgeLink_0_1": 39,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 61,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "26, 56, 57",
+            "EdgeLink_0_1": 2,
+            "EdgeLink_1_2": 45,
+            "EdgeLink_2_0": 82,
+            "Height": 253.5058,
+            "Flags": [
+              "Door",
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "49, 15, 18",
+            "EdgeLink_0_1": 17,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 30,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "49, 50, 15",
+            "EdgeLink_0_1": 58,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 16,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "54, 51, 9",
+            "EdgeLink_0_1": 29,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 54,
+            "Height": 174.43188,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "53, 24, 37",
+            "EdgeLink_0_1": 50,
+            "EdgeLink_1_2": 32,
+            "EdgeLink_2_0": 43,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "80, 53, 23",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 43,
+            "EdgeLink_2_0": 90,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 1
+          },
+          {
+            "Vertices": "12, 10, 22",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 35,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 3
+          },
+          {
+            "Vertices": "32, 31, 57",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 10,
+            "EdgeLink_2_0": 3,
+            "Height": 255.05273,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 1
+          },
+          {
+            "Vertices": "34, 31, 52",
+            "EdgeLink_0_1": 10,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 37,
+            "Height": 175.46223,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "12, 5, 25",
+            "EdgeLink_0_1": 35,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 26,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "25, 34, 11",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 33,
+            "EdgeLink_2_0": 26,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 1
+          },
+          {
+            "Vertices": "11, 12, 25",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 24,
+            "EdgeLink_2_0": 25,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 1
+          },
+          {
+            "Vertices": "26, 36, 55",
+            "EdgeLink_0_1": 78,
+            "EdgeLink_1_2": 80,
+            "EdgeLink_2_0": 2,
+            "Height": 251.13904,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "14, 13, 6",
+            "EdgeLink_0_1": 84,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 12,
+            "Height": 175.8471,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "82, 51, 54",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 18,
+            "EdgeLink_2_0": 89,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 1
+          },
+          {
+            "Vertices": "49, 18, 20",
+            "EdgeLink_0_1": 16,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 31,
+            "Height": 219.60202,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "49, 20, 59",
+            "EdgeLink_0_1": 30,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 55,
+            "Height": 202.41992,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "21, 37, 24",
+            "EdgeLink_0_1": 40,
+            "EdgeLink_1_2": 19,
+            "EdgeLink_2_0": 53,
+            "Height": 219.69894,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "58, 11, 34",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 25,
+            "EdgeLink_2_0": 37,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 1
+          },
+          {
+            "Vertices": "22, 23, 5",
+            "EdgeLink_0_1": 90,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 35,
+            "Height": 175.68971,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "22, 5, 12",
+            "EdgeLink_0_1": 34,
+            "EdgeLink_1_2": 24,
+            "EdgeLink_2_0": 21,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "14, 7, 28",
+            "EdgeLink_0_1": 12,
+            "EdgeLink_1_2": 86,
+            "EdgeLink_2_0": 49,
+            "Height": 176.60437,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "52, 58, 34",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 33,
+            "EdgeLink_2_0": 23,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 1
+          },
+          {
+            "Vertices": "74, 0, 75",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 41,
+            "Height": 3.4028235E+38,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "42, 40, 39",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 4,
+            "EdgeLink_2_0": 14,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 1
+          },
+          {
+            "Vertices": "37, 21, 27",
+            "EdgeLink_0_1": 32,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 48,
+            "Height": 219.64398,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "74, 75, 73",
+            "EdgeLink_0_1": 38,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 46,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "49, 19, 30",
+            "EdgeLink_0_1": 55,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 58,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "53, 37, 23",
+            "EdgeLink_0_1": 19,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 20,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "81, 19, 54",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 51,
+            "EdgeLink_2_0": 88,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "56, 33, 57",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 3,
+            "EdgeLink_2_0": 15,
+            "Height": 231.18053,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 1
+          },
+          {
+            "Vertices": "72, 74, 73",
+            "EdgeLink_0_1": 11,
+            "EdgeLink_1_2": 41,
+            "EdgeLink_2_0": 83,
+            "Height": 3.4028235E+38,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "78, 70, 72",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 77,
+            "EdgeLink_2_0": 83,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 1
+          },
+          {
+            "Vertices": "36, 37, 27",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 40,
+            "EdgeLink_2_0": 59,
+            "Height": 245.50253,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 1
+          },
+          {
+            "Vertices": "28, 8, 14",
+            "EdgeLink_0_1": 57,
+            "EdgeLink_1_2": 85,
+            "EdgeLink_2_0": 36,
+            "Height": 177.98315,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "53, 19, 24",
+            "EdgeLink_0_1": 51,
+            "EdgeLink_1_2": 53,
+            "EdgeLink_2_0": 19,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "19, 53, 54",
+            "EdgeLink_0_1": 50,
+            "EdgeLink_1_2": 89,
+            "EdgeLink_2_0": 44,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "19, 59, 21",
+            "EdgeLink_0_1": 55,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 53,
+            "Height": 176.56003,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "24, 19, 21",
+            "EdgeLink_0_1": 50,
+            "EdgeLink_1_2": 52,
+            "EdgeLink_2_0": 32,
+            "Height": 176.59863,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "54, 9, 28",
+            "EdgeLink_0_1": 18,
+            "EdgeLink_1_2": 57,
+            "EdgeLink_2_0": 88,
+            "Height": 177.48737,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "59, 19, 49",
+            "EdgeLink_0_1": 52,
+            "EdgeLink_1_2": 42,
+            "EdgeLink_2_0": 31,
+            "Height": 176.4226,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "77, 29, 28",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 87,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "28, 9, 8",
+            "EdgeLink_0_1": 54,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 49,
+            "Height": 177.48737,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "50, 49, 30",
+            "EdgeLink_0_1": 17,
+            "EdgeLink_1_2": 42,
+            "EdgeLink_2_0": -1,
+            "Height": 212.9336,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "35, 36, 27",
+            "EdgeLink_0_1": 80,
+            "EdgeLink_1_2": 48,
+            "EdgeLink_2_0": 60,
+            "Height": 263.97296,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "27, 38, 35",
+            "EdgeLink_0_1": 7,
+            "EdgeLink_1_2": 13,
+            "EdgeLink_2_0": 59,
+            "Height": 254.74478,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "43, 1, 42",
+            "EdgeLink_0_1": 62,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 14,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "43, 3, 1",
+            "EdgeLink_0_1": 63,
+            "EdgeLink_1_2": 64,
+            "EdgeLink_2_0": 61,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "43, 17, 3",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 62,
+            "Height": 250.36438,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "3, 44, 1",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 65,
+            "EdgeLink_2_0": 62,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "44, 45, 1",
+            "EdgeLink_0_1": 66,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 64,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "44, 46, 45",
+            "EdgeLink_0_1": 69,
+            "EdgeLink_1_2": 67,
+            "EdgeLink_2_0": 65,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "46, 47, 45",
+            "EdgeLink_0_1": 68,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 66,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "46, 65, 47",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 67,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "44, 66, 46",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 70,
+            "EdgeLink_2_0": 66,
+            "Height": 201.67282,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 1
+          },
+          {
+            "Vertices": "66, 67, 46",
+            "EdgeLink_0_1": 71,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 69,
+            "Height": 199.96597,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "66, 68, 67",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 72,
+            "EdgeLink_2_0": 70,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 1
+          },
+          {
+            "Vertices": "68, 16, 67",
+            "EdgeLink_0_1": 73,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 71,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "68, 2, 16",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 5,
+            "EdgeLink_2_0": 72,
+            "Height": 3.4028235E+38,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "2, 69, 4",
+            "EdgeLink_0_1": 75,
+            "EdgeLink_1_2": 76,
+            "EdgeLink_2_0": 5,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "2, 70, 69",
+            "EdgeLink_0_1": 77,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 74,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "69, 71, 4",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 74,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 1
+          },
+          {
+            "Vertices": "2, 72, 70",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 47,
+            "EdgeLink_2_0": 75,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "26, 34, 36",
+            "EdgeLink_0_1": 82,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 27,
+            "Height": 251.89482,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "38, 60, 56",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 13,
+            "Height": 223.20247,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 3
+          },
+          {
+            "Vertices": "55, 36, 35",
+            "EdgeLink_0_1": 27,
+            "EdgeLink_1_2": 59,
+            "EdgeLink_2_0": 81,
+            "Height": 259.62515,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "35, 56, 55",
+            "EdgeLink_0_1": 13,
+            "EdgeLink_1_2": 2,
+            "EdgeLink_2_0": 80,
+            "Height": 254.33047,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "57, 34, 26",
+            "EdgeLink_0_1": 10,
+            "EdgeLink_1_2": 78,
+            "EdgeLink_2_0": 15,
+            "Height": 255.25282,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "72, 73, 78",
+            "EdgeLink_0_1": 46,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 47,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "79, 13, 14",
+            "EdgeLink_0_1": -1,
+            "EdgeLink_1_2": 28,
+            "EdgeLink_2_0": 85,
+            "Height": 184.94778,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 1
+          },
+          {
+            "Vertices": "14, 8, 79",
+            "EdgeLink_0_1": 49,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 84,
+            "Height": 185.87653,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "28, 7, 76",
+            "EdgeLink_0_1": 36,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 87,
+            "Height": 176.19481,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "28, 76, 77",
+            "EdgeLink_0_1": 86,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 56,
+            "Height": 175.37985,
+            "Flags": [
+              "Found"
+            ]
+          },
+          {
+            "Vertices": "54, 28, 81",
+            "EdgeLink_0_1": 54,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 44,
+            "Height": 184.35193,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "54, 53, 82",
+            "EdgeLink_0_1": 51,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 29,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          },
+          {
+            "Vertices": "23, 22, 80",
+            "EdgeLink_0_1": 34,
+            "EdgeLink_1_2": -1,
+            "EdgeLink_2_0": 20,
+            "Height": 170.0,
+            "Flags": [
+              "Found"
+            ],
+            "CoverFlags": 2
+          }
+        ],
+        "DoorTriangles": [
+          {
+            "TriangleBeforeDoor": 15,
+            "Unknown": -460622861,
+            "Door": "002172:Fallout4.esm"
+          }
+        ],
+        "Cover": [
+          {
+            "Vertex1": 33,
+            "Vertex2": 23830,
+            "Data": 2147494050
+          },
+          {
+            "Vertex1": 23830,
+            "Vertex2": 35746,
+            "Data": 11707
+          },
+          {
+            "Vertex1": 35746,
+            "Vertex2": 50640,
+            "Data": 11691
+          },
+          {
+            "Vertex1": 50640,
+            "Vertex2": 83,
+            "Data": 11689
+          },
+          {
+            "Vertex1": 56,
+            "Vertex2": 21844,
+            "Data": 11690
+          },
+          {
+            "Vertex1": 21844,
+            "Vertex2": 60,
+            "Data": 11689
+          },
+          {
+            "Vertex1": 60,
+            "Vertex2": 38,
+            "Data": 15864
+          },
+          {
+            "Vertex1": 84,
+            "Vertex2": 63,
+            "Data": 2146296
+          },
+          {
+            "Vertex1": 63,
+            "Vertex2": 62,
+            "Data": 16376
+          },
+          {
+            "Vertex1": 62,
+            "Vertex2": 40,
+            "Data": 16376
+          },
+          {
+            "Vertex1": 40,
+            "Vertex2": 47,
+            "Data": 16376
+          },
+          {
+            "Vertex1": 47,
+            "Vertex2": 65,
+            "Data": 2040
+          },
+          {
+            "Vertex1": 71,
+            "Vertex2": 69,
+            "Data": 2147498232
+          },
+          {
+            "Vertex1": 69,
+            "Vertex2": 70,
+            "Data": 16376
+          },
+          {
+            "Vertex1": 70,
+            "Vertex2": 78,
+            "Data": 16376
+          },
+          {
+            "Vertex1": 78,
+            "Vertex2": 73,
+            "Data": 16376
+          },
+          {
+            "Vertex1": 73,
+            "Vertex2": 75,
+            "Data": 6136
+          },
+          {
+            "Vertex1": 75,
+            "Vertex2": 44839,
+            "Data": 2634
+          },
+          {
+            "Vertex1": 44839,
+            "Vertex2": 85,
+            "Data": 313
+          },
+          {
+            "Vertex1": 86,
+            "Vertex2": 87,
+            "Data": 2147483664
+          },
+          {
+            "Vertex1": 88,
+            "Vertex2": 27306,
+            "Data": 2148943922
+          },
+          {
+            "Vertex1": 27306,
+            "Vertex2": 89,
+            "Data": 147777
+          },
+          {
+            "Vertex1": 90,
+            "Vertex2": 27,
+            "Data": 2147620984
+          },
+          {
+            "Vertex1": 91,
+            "Vertex2": 26984,
+            "Data": 7034
+          },
+          {
+            "Vertex1": 26984,
+            "Vertex2": 21,
+            "Data": 795529
+          },
+          {
+            "Vertex1": 21,
+            "Vertex2": 59,
+            "Data": 99464
+          },
+          {
+            "Vertex1": 92,
+            "Vertex2": 14798,
+            "Data": 2147635314
+          },
+          {
+            "Vertex1": 14798,
+            "Vertex2": 48622,
+            "Data": 479827
+          },
+          {
+            "Vertex1": 48622,
+            "Vertex2": 57078,
+            "Data": 152171
+          },
+          {
+            "Vertex1": 57078,
+            "Vertex2": 93,
+            "Data": 131673
+          },
+          {
+            "Vertex1": 81,
+            "Vertex2": 49151,
+            "Data": 2147633258
+          },
+          {
+            "Vertex1": 49151,
+            "Vertex2": 28,
+            "Data": 215353
+          },
+          {
+            "Vertex1": 94,
+            "Vertex2": 10082,
+            "Data": 151914
+          },
+          {
+            "Vertex1": 10082,
+            "Vertex2": 20164,
+            "Data": 37459
+          },
+          {
+            "Vertex1": 20164,
+            "Vertex2": 52932,
+            "Data": 594507
+          },
+          {
+            "Vertex1": 52932,
+            "Vertex2": 29,
+            "Data": 148081
+          },
+          {
+            "Vertex1": 95,
+            "Vertex2": 7,
+            "Data": 2149611768
+          },
+          {
+            "Vertex1": 7,
+            "Vertex2": 6,
+            "Data": 16376
+          },
+          {
+            "Vertex1": 6,
+            "Vertex2": 13,
+            "Data": 16376
+          },
+          {
+            "Vertex1": 13,
+            "Vertex2": 96,
+            "Data": 16376
+          },
+          {
+            "Vertex1": 8,
+            "Vertex2": 51,
+            "Data": 8184
+          },
+          {
+            "Vertex1": 51,
+            "Vertex2": 5173,
+            "Data": 7034
+          },
+          {
+            "Vertex1": 5173,
+            "Vertex2": 20695,
+            "Data": 5011
+          },
+          {
+            "Vertex1": 39665,
+            "Vertex2": 44839,
+            "Data": 4699
+          },
+          {
+            "Vertex1": 44839,
+            "Vertex2": 80,
+            "Data": 531049
+          },
+          {
+            "Vertex1": 80,
+            "Vertex2": 38725,
+            "Data": 4970
+          },
+          {
+            "Vertex1": 38725,
+            "Vertex2": 47661,
+            "Data": 4699
+          },
+          {
+            "Vertex1": 47661,
+            "Vertex2": 22,
+            "Data": 6753
+          },
+          {
+            "Vertex1": 22,
+            "Vertex2": 45370,
+            "Data": 21354
+          },
+          {
+            "Vertex1": 45370,
+            "Vertex2": 10,
+            "Data": 2150993
+          },
+          {
+            "Vertex1": 10,
+            "Vertex2": 39594,
+            "Data": 4674
+          },
+          {
+            "Vertex1": 43690,
+            "Vertex2": 11,
+            "Data": 4705
+          },
+          {
+            "Vertex1": 97,
+            "Vertex2": 58,
+            "Data": 4680
+          },
+          {
+            "Vertex1": 98,
+            "Vertex2": 17476,
+            "Data": 4682
+          },
+          {
+            "Vertex1": 17476,
+            "Vertex2": 27670,
+            "Data": 4859
+          },
+          {
+            "Vertex1": 27670,
+            "Vertex2": 45146,
+            "Data": 2635
+          },
+          {
+            "Vertex1": 45146,
+            "Vertex2": 59709,
+            "Data": 2363
+          },
+          {
+            "Vertex1": 59709,
+            "Vertex2": 99,
+            "Data": 305
+          },
+          {
+            "Vertex1": 100,
+            "Vertex2": 37448,
+            "Data": 2147897594
+          },
+          {
+            "Vertex1": 37448,
+            "Vertex2": 51491,
+            "Data": 660035
+          },
+          {
+            "Vertex1": 51491,
+            "Vertex2": 101,
+            "Data": 610905
+          },
+          {
+            "Vertex1": 36,
+            "Vertex2": 15728,
+            "Data": 215618
+          },
+          {
+            "Vertex1": 15728,
+            "Vertex2": 102,
+            "Data": 231737
+          },
+          {
+            "Vertex1": 103,
+            "Vertex2": 104,
+            "Data": 149816
+          },
+          {
+            "Vertex1": 105,
+            "Vertex2": 106,
+            "Data": 18744
+          },
+          {
+            "Vertex1": 107,
+            "Vertex2": 108,
+            "Data": 180728
+          },
+          {
+            "Vertex1": 109,
+            "Vertex2": 110,
+            "Data": 2147631352
+          }
+        ],
+        "CoverTriangleMappings": [
+          {
+            "Triangle": 9
+          },
+          {
+            "Cover": 49,
+            "Triangle": 37
+          },
+          {
+            "Cover": 261,
+            "Triangle": 10
+          },
+          {
+            "Cover": 357,
+            "Triangle": 41
+          },
+          {
+            "Cover": 229,
+            "Triangle": 40
+          },
+          {
+            "Cover": 116,
+            "Triangle": 41
+          },
+          {
+            "Cover": 273,
+            "Triangle": 11
+          },
+          {
+            "Cover": 169,
+            "Triangle": 26
+          },
+          {
+            "Cover": 284,
+            "Triangle": 19
+          },
+          {
+            "Cover": 353,
+            "Triangle": 30
+          },
+          {
+            "Cover": 301,
+            "Triangle": 13
+          },
+          {
+            "Cover": 245,
+            "Triangle": 10
+          },
+          {
+            "Cover": 304,
+            "Triangle": 12
+          },
+          {
+            "Cover": 333,
+            "Triangle": 15
+          },
+          {
+            "Cover": 173,
+            "Triangle": 66
+          },
+          {
+            "Cover": 33,
+            "Triangle": 7
+          },
+          {
+            "Cover": 156,
+            "Triangle": 10
+          },
+          {
+            "Cover": 225,
+            "Triangle": 32
+          },
+          {
+            "Cover": 345,
+            "Triangle": 36
+          },
+          {
+            "Cover": 161,
+            "Triangle": 23
+          },
+          {
+            "Cover": 276,
+            "Triangle": 19
+          },
+          {
+            "Cover": 188,
+            "Triangle": 14
+          },
+          {
+            "Cover": 336,
+            "Triangle": 39
+          },
+          {
+            "Cover": 341,
+            "Triangle": 39
+          },
+          {
+            "Cover": 192,
+            "Triangle": 58
+          },
+          {
+            "Cover": 97,
+            "Triangle": 64
+          },
+          {
+            "Cover": 28,
+            "Triangle": 22
+          },
+          {
+            "Cover": 73,
+            "Triangle": 40
+          },
+          {
+            "Cover": 316,
+            "Triangle": 6
+          },
+          {
+            "Cover": 269,
+            "Triangle": 10
+          },
+          {
+            "Cover": 317,
+            "Triangle": 4
+          },
+          {
+            "Cover": 104,
+            "Triangle": 50
+          },
+          {
+            "Cover": 80,
+            "Triangle": 41
+          },
+          {
+            "Cover": 153,
+            "Triangle": 17
+          },
+          {
+            "Cover": 85,
+            "Triangle": 48
+          },
+          {
+            "Cover": 24,
+            "Triangle": 9
+          },
+          {
+            "Cover": 137,
+            "Triangle": 65
+          },
+          {
+            "Cover": 132,
+            "Triangle": 52
+          },
+          {
+            "Cover": 148,
+            "Triangle": 53
+          },
+          {
+            "Cover": 100,
+            "Triangle": 63
+          },
+          {
+            "Cover": 84,
+            "Triangle": 50
+          },
+          {
+            "Cover": 88,
+            "Triangle": 53
+          },
+          {
+            "Cover": 165,
+            "Triangle": 16
+          },
+          {
+            "Cover": 180
+          },
+          {
+            "Cover": 113,
+            "Triangle": 38
+          },
+          {
+            "Cover": 17,
+            "Triangle": 20
+          },
+          {
+            "Cover": 32,
+            "Triangle": 8
+          },
+          {
+            "Cover": 209,
+            "Triangle": 25
+          },
+          {
+            "Cover": 313,
+            "Triangle": 61
+          },
+          {
+            "Cover": 361,
+            "Triangle": 45
+          },
+          {
+            "Cover": 93,
+            "Triangle": 53
+          }
+        ],
+        "Waypoints": [
+          {
+            "Location": "1397.682, -190.49998, 65.51589",
+            "TriangleIndex": 48
+          },
+          {
+            "Location": "1468.1008, 7.030658, 66.5479",
+            "TriangleIndex": 15
+          }
+        ],
+        "GridSize": 3,
+        "GridMaxDistance": "203.53856, 232.99054",
+        "GridMin": "983.05646, -576.2682, 63.99997",
+        "GridMax": "1593.6721, 122.703415, 3.4028235E+38",
+        "GridArrays": {
+          "GridCell": [
+            12,
+            0,
+            12,
+            18,
+            28,
+            36,
+            49,
+            54,
+            56,
+            57,
+            84,
+            85,
+            86,
+            87,
+            21,
+            0,
+            5,
+            11,
+            16,
+            17,
+            30,
+            42,
+            46,
+            47,
+            56,
+            58,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            83,
+            87,
+            12,
+            0,
+            14,
+            39,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            23,
+            0,
+            18,
+            19,
+            20,
+            29,
+            34,
+            36,
+            42,
+            43,
+            44,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            86,
+            87,
+            88,
+            89,
+            90,
+            25,
+            0,
+            11,
+            16,
+            17,
+            19,
+            20,
+            30,
+            31,
+            32,
+            34,
+            38,
+            40,
+            41,
+            42,
+            43,
+            46,
+            48,
+            50,
+            52,
+            53,
+            55,
+            56,
+            58,
+            59,
+            83,
+            90,
+            18,
+            0,
+            0,
+            1,
+            4,
+            6,
+            7,
+            8,
+            9,
+            14,
+            31,
+            32,
+            39,
+            40,
+            48,
+            52,
+            53,
+            55,
+            59,
+            60,
+            8,
+            0,
+            21,
+            24,
+            25,
+            26,
+            33,
+            34,
+            35,
+            90,
+            16,
+            0,
+            10,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            33,
+            34,
+            35,
+            37,
+            48,
+            59,
+            78,
+            80,
+            82,
+            18,
+            0,
+            2,
+            3,
+            7,
+            8,
+            9,
+            10,
+            13,
+            15,
+            22,
+            27,
+            45,
+            59,
+            60,
+            78,
+            79,
+            80,
+            81,
+            82
+          ]
+        }
+      },
+      "PreCutMapEntries": [],
+      "MajorFlags": [
+        "0x40000"
+      ]
+    }
+  ],
+  "Persistent": [
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "002172:Fallout4.esm",
+      "MajorRecordFlagsRaw": 1024,
+      "Fallout4MajorRecordFlags": [
+        "0x400"
+      ],
+      "Base": "000FFC:Fallout4.esm",
+      "TeleportDestination": {
+        "Door": "001404:Fallout4.esm",
+        "Position": "1371.8552, 1830.393, -1668.9275",
+        "Rotation": "0, 0, 2.2000048"
+      },
+      "Lock": {
+        "Level": "Advanced",
+        "Key": "0644D4:Fallout4.esm"
+      },
+      "NavigationDoorLink": {
+        "NavMesh": "12DBD3:Fallout4.esm",
+        "TeleportMarkerTriangle": 15
+      },
+      "LocationReference": "00395E:Fallout4.esm",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1539.9448, 24.004286, 63.999985",
+      "Rotation": "0, 0, 1.679998"
+    }
+  ],
+  "Temporary": [
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0644D2:Fallout4.esm",
+      "Base": "02FBF9:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1068.7458, -528.7633, 69.47135",
+      "Rotation": "0.019750146, 0.020247564, 4.6999903"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0B9546:Fallout4.esm",
+      "Base": "02FA4E:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Scale": 1.06,
+      "Position": "1150.9288, -339.16675, 142.89397",
+      "Rotation": "0, 0, 6.2031846"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0B9547:Fallout4.esm",
+      "Base": "02FA50:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Scale": 1.06,
+      "Position": "1158.9291, -315.69034, 142.89397",
+      "Rotation": "0, 0, 5.872389"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0B9548:Fallout4.esm",
+      "Base": "02FA27:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1148.5674, -343.15268, 142.89397",
+      "Rotation": "0, 0, 6.2031846"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0B9549:Fallout4.esm",
+      "Base": "02FA27:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1161.4735, -319.56216, 142.89397",
+      "Rotation": "0, 0, 5.0869803"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0B954A:Fallout4.esm",
+      "Base": "02FA27:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1152.1685, -331.1397, 142.89397",
+      "Rotation": "0, 0, 3.0615919"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0B954B:Fallout4.esm",
+      "Base": "02FA29:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1148.9211, -335.43005, 142.89397",
+      "Rotation": "0, 0, 6.2031846"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0B954C:Fallout4.esm",
+      "Base": "02FACD:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1149.5938, -326.73077, 142.89397",
+      "Rotation": "0, 0, 3.8469796"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0B954D:Fallout4.esm",
+      "Base": "035A0D:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1150.7848, -339.10312, 142.89397",
+      "Rotation": "0, 0, 6.2031846"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0B954E:Fallout4.esm",
+      "Base": "035A0D:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1158.809, -315.79218, 142.89397",
+      "Rotation": "0, 0, 5.0869803"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0B954F:Fallout4.esm",
+      "Base": "035A10:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1148.855, -335.80222, 142.89397",
+      "Rotation": "0, 0, 5.8931775"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0B9550:Fallout4.esm",
+      "Base": "035A10:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1149.9036, -326.5144, 142.89397",
+      "Rotation": "0, 0, 3.53699"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0B9551:Fallout4.esm",
+      "Base": "035A10:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1152.1685, -331.1397, 142.89397",
+      "Rotation": "0, 0, 5.8931775"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0B9555:Fallout4.esm",
+      "Base": "02FAD1:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Scale": 1.06,
+      "Position": "1222.3269, -413.92453, 142.86458",
+      "Rotation": "0, 0, 5.9931846"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0B9556:Fallout4.esm",
+      "Base": "02FA27:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1220.848, -418.31522, 142.86458",
+      "Rotation": "0, 0, 5.9931846"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0B9557:Fallout4.esm",
+      "Base": "02FA29:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1210.1974, -408.35474, 142.86458",
+      "Rotation": "0, 0, 6.1931853"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0B9558:Fallout4.esm",
+      "Base": "035A0D:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1222.1725, -413.89243, 142.86458",
+      "Rotation": "0, 0, 5.9931846"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0B955D:Fallout4.esm",
+      "Base": "035A10:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1210.1351, -408.72763, 142.8646",
+      "Rotation": "0, 0, 5.883177"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0C642D:Fallout4.esm",
+      "Base": "01F511:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1299.7444, -516.17, 26.393162",
+      "Rotation": "0.0033091442, 6.251476, 2.8156943"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0D3546:Fallout4.esm",
+      "Base": "01F510:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1178.5463, -337.05026, 29.517307",
+      "Rotation": "6.206785, 6.2594504, 2.841307"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0D3557:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "01F518:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1083.6378, -576.0584, -2015.6396",
+      "Rotation": "0, 1.7453292E-06, 5.019998"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0D3558:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "01F510:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "952.84064, -472.33557, -2013.4913",
+      "Rotation": "0, 0, 5.819999"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0D3559:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "01F11C:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1111.2151, -495.15286, -2002.3746",
+      "Rotation": "0, 0, 4.973183"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0D355A:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "01F187:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Scale": 1.11,
+      "Position": "1075.2911, -450.97348, -1991.5306",
+      "Rotation": "0.09191602, 0.08697848, 5.8447776"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0D355B:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "01F48B:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1061.7527, -407.0546, -1994.2853",
+      "Rotation": "0, 0, 4.12318"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0D355C:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "01F187:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1039.577, -375.4399, -1994.2582",
+      "Rotation": "0, 0, 0.21999352"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0D355D:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "01F184:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Scale": 0.83,
+      "Position": "1081.3718, -357.67404, -1994.0657",
+      "Rotation": "0, 0, 5.993181"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0D355E:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "01F11C:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "990.6357, -387.1321, -2002.3746",
+      "Rotation": "0, 0, 2.993182"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0D355F:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "01F11C:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1030.7864, -320.619, -2006.4597",
+      "Rotation": "0, 0, 2.303182"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "12DBD2:Fallout4.esm",
+      "Base": "05BC4F:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1158.1304, -395.77863, 65.22676",
+      "Rotation": "0, 0, 0.7700009"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138E7E:Fallout4.esm",
+      "Base": "04B6E9:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1218.1007, -451.79095, 66.41617",
+      "Rotation": "0, 0, 5.2331862"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138E89:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0711B5:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1419.1465, -46.285423, -1969.4353",
+      "Rotation": "6.2670426, 6.271378, 2.4900944"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138E8B:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0CD2A8:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1355.939, -370.2924, -1938.0848",
+      "Rotation": "0.057800066, 0.008281587, 2.6823895"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138E8C:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0CD2AA:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1354.9849, -428.58145, -1935.0889",
+      "Rotation": "0.057800066, 0.0082274815, 6.0123887"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138E8D:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0CD2A9:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1271.1327, -456.53696, -1934.0095",
+      "Rotation": "0.059735637, 6.2659674, 4.3423877"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138E8E:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0CD2AA:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1199.005, -104.070755, -1937.7758",
+      "Rotation": "0.0077073737, 6.2253065, 5.652739"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138E8F:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0CD2A7:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1342.3778, 48.203594, -1935.1503",
+      "Rotation": "6.2796125, 0.02234545, 5.763105"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138E90:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0CD2AC:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1409.562, -94.100876, -1933.301",
+      "Rotation": "6.266699, 6.2762036, 5.4223886"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138E91:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0CD2A8:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1220.4154, -316.51242, -1939.6914",
+      "Rotation": "0, 0, 0.7792022"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138E92:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0CD2A7:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1111.1652, -182.85014, -1938.7284",
+      "Rotation": "0, 1.7453292E-06, 4.96239"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138E93:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0CD2A7:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1262.2614, -318.02655, -1935.389",
+      "Rotation": "6.2775755, 6.281607, 4.712389"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138E94:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0CD2A8:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1509.6145, -103.387985, -1934.4226",
+      "Rotation": "6.2746067, 6.2768426, 4.712389"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138E95:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0CD2AB:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1202.9751, 54.758663, -1936.8295",
+      "Rotation": "0, 1.7453292E-06, 1.3699996"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138E97:Fallout4.esm",
+      "MajorRecordFlagsRaw": 536870912,
+      "Fallout4MajorRecordFlags": [
+        "0x20000000"
+      ],
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "03B163:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1295.2976, -514.4689, 129.16261",
+      "Rotation": "0, 0, 0.4199995"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138E99:Fallout4.esm",
+      "MajorRecordFlagsRaw": 536870912,
+      "Fallout4MajorRecordFlags": [
+        "0x20000000"
+      ],
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "036CD5:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1273.266, -2.617518, 121.673225",
+      "Rotation": "0, 0, 0.6299993"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138E9A:Fallout4.esm",
+      "MajorRecordFlagsRaw": 536870912,
+      "Fallout4MajorRecordFlags": [
+        "0x20000000"
+      ],
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "03B163:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1425.2522, -367.85693, 294.78714",
+      "Rotation": "0, 0, 5.7431855"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138EA9:Fallout4.esm",
+      "Base": "059B15:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "965.09735, -433.17133, 105.999115",
+      "Rotation": "6.283168, 6.283166, 6.2797785"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138EAB:Fallout4.esm",
+      "Base": "05D8F8:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1198.7142, -526.96234, 65.69903",
+      "Rotation": "0, 0, 0.89318967"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138EB1:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0330EE:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1193.2415, -378.59503, -2015.3114",
+      "Rotation": "0, 0, 6.093185"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138EB2:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0330EE:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1200.9043, -386.4156, -2015.3114",
+      "Rotation": "0, 0, 5.533186"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138EB3:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0330EE:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1209.0513, -399.56992, -2015.3115",
+      "Rotation": "0, 0, 1.9599994"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138EB4:Fallout4.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "0330EE:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "1224.2341, -402.42612, -2042.8114",
+      "Rotation": "0, 0, 5.333185"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "138EB9:Fallout4.esm",
+      "Base": "0330EE:Fallout4.esm",
+      "LocationReference": "00395E:Fallout4.esm",
+      "Position": "974.585, -519.8409, 66.01248",
+      "Rotation": "0, 0, 0.65000075"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000804:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC5F:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "949.1794, -546.064, 187.56697",
+      "Rotation": "4.7152233, 0.046350706, 0.0042184605"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "008A08:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "19D819:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "953.6911, -426.0675, 141.96559",
+      "Rotation": "0, 0, 4.851914"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "008A09:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "19D819:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "953.9276, -426.25623, 178.233",
+      "Rotation": "0, 0, 4.8596964"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "008A0A:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "19D819:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "981.18256, -580.4417, 164.26483",
+      "Rotation": "0, 0, 3.139697"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0131DA:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "18B21F:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1573.065, 37.64676, 221.37529",
+      "Rotation": "0, 0, 5.6031857"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0131DB:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "18B21C:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Scale": 0.59,
+      "Position": "1563.5282, -9.099354, 221.32468",
+      "Rotation": "0, 0, 5.463186"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0131DF:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1610612736,
+      "Fallout4MajorRecordFlags": [
+        "0x20000000",
+        "0x40000000"
+      ],
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "14F697:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1456.7966, -485.84723, 191.9736",
+      "Rotation": "1.5633298, 0.038999382, 3.071776"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0131E1:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1610612736,
+      "Fallout4MajorRecordFlags": [
+        "0x20000000",
+        "0x40000000"
+      ],
+      "VirtualMachineAdapter": {
+        "Scripts": [
+          {
+            "Name": "defaultdisablehavokonload"
+          }
+        ]
+      },
+      "Base": "14F698:Fallout4.esm",
+      "RagdollData": [
+        {
+          "Unused": "0x657874",
+          "Rotation": "0.16951911, -0.16492157, 0.21537691"
+        },
+        {
+          "Unused": "0x545F42",
+          "Position": "10.692139, 3.709278, 9.62027",
+          "Rotation": "-0.18127127, 0.100781366, -0.24304985"
+        }
+      ],
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1463.4675, -505.84198, 62.574898",
+      "Rotation": "0, 0, 3.2831876"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0131EA:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "07326C:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1447.4558, -331.67535, 64.74104",
+      "Rotation": "0.000572468, 0.0005794493, 0.0003944444"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0131EB:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "02EE6F:Fallout4.esm",
+      "RagdollData": [
+        {
+          "Unused": "0x000000",
+          "Rotation": "0.0015916983, -1.2557192, -0.0059351744"
+        }
+      ],
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1253.3257, -60.382477, 66.61334",
+      "Rotation": "0, 0, 5.3031864"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0131EC:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "02EE6E:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1271.6852, -16.15642, 70.00431",
+      "Rotation": "6.271603, 0.12723276, 4.136617"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0131ED:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "02EE6E:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1246.6139, 15.11872, 65.714905",
+      "Rotation": "6.2621293, 0.20356648, 1.3506387"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0131EF:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0625E4:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Scale": 0.77,
+      "Position": "1062.2664, 165.66908, 100.2069",
+      "Rotation": "0.3757048, 4.8659043, 1.1909114"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0139A0:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "19537A:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1327.2844, 151.59479, 105.87076",
+      "Rotation": "2.219591, 5.762538, 4.3085055"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0139BF:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "06D4C3:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Lock": {
+        "Level": "Advanced",
+        "Flags": [
+          "0x4"
+        ]
+      },
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1160.7632, -580.50824, 150.38605",
+      "Rotation": "0, 0, 3.1431878"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01490B:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1D6572:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Scale": 0.71,
+      "Position": "1517.9794, -238.458, 78.52983",
+      "Rotation": "4.741501, 4.939004, 1.5790203"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01490D:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1D15DD:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Scale": 0.81,
+      "Position": "1247.2932, -227.6715, 392.81134",
+      "Rotation": "5.7948527, 5.0246544, 5.2291217"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01490E:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1D15DC:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Scale": 0.71999997,
+      "Position": "1244.1182, -316.7445, 386.97906",
+      "Rotation": "5.516343, 5.0929823, 5.516345"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150C2:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1467A4:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1063.7081, -34.233868, 166.13826",
+      "Rotation": "0.00047996553, 6.282721, 0.645407"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150C3:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "14BF50:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1066.7853, -6.02105, 166.13937",
+      "Rotation": "6.632251E-05, 0.00016231561, 3.8118339"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150C5:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0A28D7:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1271.8701, -61.49818, 139.23392",
+      "Rotation": "0.0002268928, 6.282716, 1.740362"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150C6:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0A28D8:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1274.5428, -60.84922, 126.8193",
+      "Rotation": "6.2289352, 0.0050073494, 6.083853"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150C7:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0FC104:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1089.0469, 119.198906, 167.46043",
+      "Rotation": "0.00012915436, 6.2830195, 1.733393"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150CB:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "125891:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1082.0397, -107.75901, 158.28514",
+      "Rotation": "3.142069, 0.00010821041, 2.2455754"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150CC:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0A81B0:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1149.4213, 155.72234, 150.37537",
+      "Rotation": "2.3133082, 0.083932884, 3.195909"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150CD:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0A81AF:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Scale": 0.75,
+      "Position": "1088.5535, 140.0176, 167.59503",
+      "Rotation": "6.2776437, 6.273757, 0.2759924"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150CE:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1738AA:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1061.8915, -101.65201, 155.15697",
+      "Rotation": "0.0003455752, 6.282859, 3.7815926"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150D1:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1F9793:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1086.162, 69.653915, 167.46077",
+      "Rotation": "0.0005689773, 8.028514E-05, 1.9232026"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150D2:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "146177:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1065.5482, 23.604168, 175.55313",
+      "Rotation": "3.1413395, 0.00021642083, 4.6096396"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150D4:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0316D4:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1390.3888, 121.274414, 163.86247",
+      "Rotation": "0.008827875, 0.03470936, 5.2560625"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150D5:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0E5084:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1400.084, 121.85281, 75.018654",
+      "Rotation": "6.2083473, 0.069959775, 5.482468"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150D6:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0A36BE:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1385.9644, 122.50929, 130.79922",
+      "Rotation": "0.06055245, 6.25234, 5.703102"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150D7:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0B3F4C:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1431.1086, 120.92547, 102.74281",
+      "Rotation": "6.2647476, 6.274057, 0.33985573"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150D8:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0B3F4E:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1400.3176, 124.2819, 102.810486"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150D9:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0A740B:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1427.0021, 118.56621, 159.03506",
+      "Rotation": "6.2534394, 6.2718196, 8.203047E-05"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150DA:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0A740E:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1405.5103, 118.621445, 158.84727",
+      "Rotation": "6.2751565, 0.00020594885, 3.61265"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150DB:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0E5086:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1425.92, 124.322014, 130.76633",
+      "Rotation": "6.2501774, 6.266046, 1.7109514"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150DC:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0B3F4D:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1376.0371, 125.50116, 74.85889",
+      "Rotation": "0.027180012, 0.014723597, 3.344412"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150DE:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "117EB7:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1435.3181, 120.98448, 74.77662",
+      "Rotation": "1.9198622E-05, 0.00064228114, 0.030838221"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150DF:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "117EB9:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1384.1866, 123.86636, 158.7612",
+      "Rotation": "6.2830195, 5.5850534E-05, 3.173031"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150E0:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1C4BE8:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1274.4915, -37.611874, 121.67309",
+      "Rotation": "0.0009197885, 0.00026179937, 1.9404064"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150E1:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0E628A:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1074.6891, -97.88517, 155.15648",
+      "Rotation": "0.0011711159, 0.0009546951, 5.395701"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150E6:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1BDE06:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1072.9536, 23.229156, 140.69014",
+      "Rotation": "6.282756, 0.00011170107, 3.7235029"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150E7:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1BDE05:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1067.9624, 3.662475, 140.68945",
+      "Rotation": "6.282691, 6.2831154, 3.7589557"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150E8:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1BDE07:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1067.0311, -19.460579, 140.69138",
+      "Rotation": "6.2826757, 7.504915E-05, 0.05489235"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150E9:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1BDE04:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1061.6875, -7.454883, 146.31522",
+      "Rotation": "0.0003036873, 6.282738, 4.89435"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150EB:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0FC395:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1065.9851, -174.48543, 177.3972",
+      "Rotation": "6.272509, 0.041842524, 3.782144"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150EC:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0FC396:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1063.6508, -149.22946, 177.43024",
+      "Rotation": "6.282059, 0.0012287118, 4.704226"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150F1:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1942D6:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1414.0962, -375.66507, 147.03792",
+      "Rotation": "0, 0, 1.2000011"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150F2:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1B828C:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1418.3711, -392.36096, 124.13998",
+      "Rotation": "6.282208, 0.000418879, 6.1991143"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150F4:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "034595:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1413.4032, -429.448, 124.15496",
+      "Rotation": "0.01508488, 0.006096435, 1.93468"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0150F7:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AF0E2:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1409.3167, -429.13577, 170.06403",
+      "Rotation": "7.15585E-05, 0.00027925268, 5.96342"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "015102:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0787EC:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1420.1757, -398.39432, 149.98111",
+      "Rotation": "3.141357, 6.2828813, 1.4435984"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "015103:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0787D9:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1191.4362, 165.97942, 163.43365",
+      "Rotation": "0.00041713368, 6.2828918, 2.4685133"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "015106:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0FC104:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1083.819, 96.13585, 177.9914",
+      "Rotation": "3.143729, 0.00017104227, 2.913902"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "015107:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "11609B:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1409.8188, -428.06216, 73.091644",
+      "Rotation": "0.00083426735, 0.000286234, 2.0140908"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "015108:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "09F252:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Scale": 0.76,
+      "Position": "1408.7643, -522.32166, 153.55263",
+      "Rotation": "0.070061006, 6.2452416, 5.289089"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0158A2:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "18B214:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1252.7133, -137.85709, 134.16707",
+      "Rotation": "6.2578187, 6.2419972, 3.1649868"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0158A3:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0F6D86:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1171.4929, 162.75755, 163.43233",
+      "Rotation": "6.281897, 6.282953, 4.5447187"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0158A4:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0F6D87:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1165.8356, 161.37495, 144.97508",
+      "Rotation": "6.2829685, 6.282845, 2.7913818"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0158A7:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1240F1:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1187.824, 164.77052, 141.5576",
+      "Rotation": "0.00023038346, 0.0004118977, 2.856156"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0158A8:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0F6D83:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1149.7983, 158.76036, 163.43225",
+      "Rotation": "6.2828746, 6.632251E-05, 4.1726613"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0158AD:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0FFC21:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1411.8956, -439.2191, 147.03903",
+      "Rotation": "6.283047, 6.981317E-06, 3.2126362"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0158AE:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1B5F1B:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1364.0239, -528.62067, 159.34016",
+      "Rotation": "0.0005637413, 0.00029670596, 4.5026927"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0158AF:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "2075C1:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1412.6805, -376.05322, 101.11671",
+      "Rotation": "4.363323E-05, 0.00028972464, 5.9536653"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0158B0:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "01F673:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "ItemCount": 10,
+      "Position": "1230.3094, -363.76608, 226.11589",
+      "Rotation": "0, 0, 1.1599998"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0158B2:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "01F673:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1219.5015, -361.25897, 225.53494"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0158B3:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "01F673:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1219.086, -398.96292, 143.80544",
+      "Rotation": "4.7527337, 4.9833946, 6.2443113"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0158B4:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "01F673:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1221.3284, -403.21545, 141.54482"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0158B5:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "01F673:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1216.5404, -401.124, 143.76837",
+      "Rotation": "0.97855026, 5.903955, 5.7801604"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01604F:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "08E371:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1172.7332, -337.53525, 142.84875",
+      "Rotation": "0, 0, 6.2063766"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016050:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "058224:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1174.145, -330.37265, 142.85825",
+      "Rotation": "6.280585, 0.0003159046, 4.8424053"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016051:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "05821A:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1164.3616, -330.62546, 144.12985",
+      "Rotation": "4.712155, 0.3252229, 6.281679"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016052:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "05821C:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1210.4629, -383.0906, 103.94768",
+      "Rotation": "0.022376865, 6.2619934, 5.45946"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016053:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "05821C:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1199.8173, -390.06622, 105.94433",
+      "Rotation": "1.5672934, 5.474775, 1.5745715"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016054:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "05821A:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1203.6555, -383.94754, 109.217735",
+      "Rotation": "1.5695606, 0.71362495, 3.1402085"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016055:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "05821A:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1204.4961, -394.25708, 109.225266",
+      "Rotation": "1.563979, 5.586762, 3.1516073"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016056:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "092217:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1210.4147, -351.26715, 229.20338",
+      "Rotation": "4.5957484, 0.9518624, 4.577557"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01605F:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0E726A:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Scale": 0.7,
+      "Position": "1031.6635, -227.23639, 65.55509",
+      "Rotation": "6.2698803, 6.282077, 4.461571"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016060:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1A5947:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "968.70337, -494.13065, 67.54936",
+      "Rotation": "6.28241, 0.00042062433, 4.835098"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016062:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1A594C:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "961.48303, -447.86224, 142.77164",
+      "Rotation": "2.7925267E-05, 6.2827663, 4.878"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016063:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1A594C:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "953.7246, -492.11472, 142.87398",
+      "Rotation": "6.2809143, 6.269823, 4.882532"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016064:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1A594C:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "949.7601, -532.50006, 179.04576",
+      "Rotation": "6.2829356, 6.27982, 4.755661"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016066:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1A594C:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1085.1725, -569.71906, 165.05794",
+      "Rotation": "6.2831416, 6.2831187, 3.1486857"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016806:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1BF72E:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "952.89154, -478.44125, 179.02908",
+      "Rotation": "0.00062657316, 2.9670597E-05, 0.7831903"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016807:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1BF72E:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "956.4378, -469.32465, 179.0206",
+      "Rotation": "0, 0, 3.7031853"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016808:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1BF72E:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "956.12134, -459.70648, 179.0206"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016809:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1BF72E:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "959.2124, -463.84335, 182.06715",
+      "Rotation": "4.7052364, 4.763115, 1.5788108"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01680A:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "106D98:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "964.4758, -442.45547, 144.9564",
+      "Rotation": "0, 0, 1.7031918"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01680B:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "106D98:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "963.2385, -433.51657, 152.92487",
+      "Rotation": "3.5968983, 6.214672, 2.928865"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01680C:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "106D98:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "959.6536, -457.66556, 144.96223",
+      "Rotation": "6.280813, 0.0016231561, 0.07919606"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01680D:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "106D98:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "960.7018, -453.07516, 148.35649",
+      "Rotation": "0.5815559, 6.2403374, 3.9447756"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01680E:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "106D98:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "957.28564, -456.08447, 152.07567",
+      "Rotation": "6.103627, 0.5996585, 4.8996716"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016810:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "106D98:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "962.5737, -441.4615, 151.50652",
+      "Rotation": "4.7316155, 6.2161436, 6.184396"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016811:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "106D98:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "958.5195, -454.96347, 156.37686",
+      "Rotation": "5.8607683, 6.1477075, 1.7048672"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016812:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1BF732:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "958.54114, -445.2685, 179.02856",
+      "Rotation": "0, 0, 4.7631865"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016814:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC5C:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "950.19806, -501.08652, 179.02682",
+      "Rotation": "5.4105207E-05, 6.2831345, 3.463194"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016815:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC5C:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "953.91406, -493.78638, 179.02681",
+      "Rotation": "6.283185E-05, 6.2831745, 4.423191"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016816:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC5C:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "954.19214, -502.50702, 181.91844",
+      "Rotation": "1.6415257, 4.716075, 4.641942"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016817:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC61:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "952.1384, -507.13336, 147.7065",
+      "Rotation": "1.5285367, 1.3926436, 3.1000502"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016818:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC61:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "948.14246, -492.5417, 148.12723",
+      "Rotation": "1.5690806, 6.1951666, 6.092347"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016819:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC61:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "954.64136, -489.65195, 145.5446",
+      "Rotation": "0.13116847, 6.002695, 1.0871761"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01681A:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC61:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "952.6983, -498.1006, 148.8578",
+      "Rotation": "5.3691826, 0.17496577, 4.741089"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01681B:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC61:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "946.22833, -503.25375, 147.81296",
+      "Rotation": "1.5742311, 6.120545, 6.2750626"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01681C:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC61:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "948.8739, -488.5687, 152.03207",
+      "Rotation": "0.29369003, 6.230094, 1.7631246"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01681D:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC61:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "960.8717, -483.5034, 147.59575",
+      "Rotation": "1.5525227, 0.59083056, 1.5535227"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01681E:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC61:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "953.77875, -484.1623, 146.2772",
+      "Rotation": "0.36611423, 0.033871602, 5.6871414"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01681F:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC61:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "956.88477, -495.3612, 145.2067",
+      "Rotation": "6.230635, 6.137068, 2.2302601"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016820:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC61:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "955.97845, -489.14038, 159.632",
+      "Rotation": "3.8484526, 0.5181289, 2.3675566"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016821:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC61:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "958.9085, -503.18762, 157.55528",
+      "Rotation": "1.825075, 0.8224794, 5.846214"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016822:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC5F:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "949.97797, -539.55005, 181.13268",
+      "Rotation": "6.2618327, 6.277839, 6.116892"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016823:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC5F:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "949.435, -532.0143, 181.05045",
+      "Rotation": "0.01447576, 0.00363203, 0.02372077"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016824:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC5F:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "948.24005, -529.70105, 185.85527",
+      "Rotation": "0.5106537, 6.2758636, 5.023026"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016825:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC5F:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "950.4121, -518.69885, 181.07071",
+      "Rotation": "0.027021186, 6.2793593, 0.048966955"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016826:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC5F:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "949.75964, -547.59705, 181.0087",
+      "Rotation": "0.009665634, 6.279534, 0.027211428"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016827:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC5F:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "950.00055, -530.49976, 190.45866",
+      "Rotation": "0.20944124, 5.541343, 6.2612357"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016828:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC5F:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "950.5461, -519.84515, 185.76839",
+      "Rotation": "0.18873815, 6.2768097, 0.018043213"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016829:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC5F:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "949.5901, -543.6276, 185.1915",
+      "Rotation": "6.26857, 6.277387, 0.046511278"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01682A:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC5F:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "949.7579, -524.79004, 192.44096",
+      "Rotation": "2.0797658, 6.267868, 6.2769055"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01682B:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC5F:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "949.6495, -537.1883, 192.37509",
+      "Rotation": "3.754046, 0.034046136, 0.32834354"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01682C:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC5F:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "950.3244, -516.10187, 191.73462",
+      "Rotation": "4.901361, 0.01597849, 0.0063809236"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01682E:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0AEC5F:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "949.656, -533.9323, 193.0334",
+      "Rotation": "5.312522, 5.9366655, 0.03621209"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01682F:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1BF72D:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "958.9705, -436.97733, 182.05214",
+      "Rotation": "4.7124553, 5.345608, 6.2824435"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016830:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1BF72D:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "959.41046, -431.78293, 179.0315"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016831:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1BF72E:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "959.4957, -480.13153, 179.02844",
+      "Rotation": "6.282658, 6.632251E-05, 5.153104"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016832:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "04D1F2:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "947.30206, -552.2466, 145.32675",
+      "Rotation": "0.038798667, 6.2773542, 6.2722106"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016833:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "04D1F2:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "947.9583, -540.57135, 145.12979",
+      "Rotation": "6.282368, 1.2217304E-05, 0.007026695"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016834:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "04D1F2:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "939.5902, -546.80316, 147.7417",
+      "Rotation": "1.5715607, 1.4321805, 1.5637643"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016835:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0C9ADA:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "962.456, -453.35965, 179.58566",
+      "Rotation": "6.28171, 6.2830663, 4.521832"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016836:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "059B43:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "962.27466, -449.35574, 180.13974",
+      "Rotation": "0.15702553, 0.024682445, 4.2711678"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016837:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0C9AD7:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "953.30365, -523.02985, 142.78879",
+      "Rotation": "6.283044, 0.0010873401, 4.920881"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016838:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0C9AD7:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "953.4133, -521.5355, 144.5681",
+      "Rotation": "3.140404, 6.27823, 1.4461466"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016842:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "059B3B:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1239.1036, -376.59366, 342.31396",
+      "Rotation": "6.14647, 0.023425808, 6.281363"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016843:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "059B3B:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1237.544, -377.82526, 362.16614",
+      "Rotation": "6.146287, 0.02282018, 0.85705787"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016844:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "059B3B:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1234.6456, -399.08026, 341.18805",
+      "Rotation": "6.2829757, 6.2830195, 1.7179188"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016845:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1A0B11:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "948.23346, -520.36896, 145.53497",
+      "Rotation": "6.2775164, 0.034749504, 5.587511"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016846:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1A0B15:Fallout4.esm",
+      "RagdollData": [
+        {
+          "Unused": "0x000000",
+          "Rotation": "-0.0014371381, -0.0085313935, 0.133895"
+        },
+        {
+          "Unused": "0x020000",
+          "Position": "-0.15917969, 9.68573, 0.9737854",
+          "Rotation": "-0.00030893774, -0.0038316995, -0.07252111"
+        }
+      ],
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Scale": 0.62,
+      "Position": "950.18805, -522.8724, 144.60074",
+      "Rotation": "0, 0, 3.000001"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016847:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "19945F:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "956.9578, -487.5037, 180.90724",
+      "Rotation": "0.00047472955, 6.2824554, 3.4523938"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016848:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0B1647:Fallout4.esm",
+      "RagdollData": [
+        {
+          "Unused": "0x657874",
+          "Rotation": "-0.0008554079, -1.503533E-06, 2.2944703E-06"
+        }
+      ],
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1391.9393, 128.3215, 186.80339",
+      "Rotation": "0, 0, 5.503187"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016849:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0B1647:Fallout4.esm",
+      "RagdollData": [
+        {
+          "Unused": "0x657874",
+          "Rotation": "-2.4360093E-05, -0.0012330384, 0.036069762"
+        }
+      ],
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Scale": 0.86,
+      "Position": "1413.5201, 126.981224, 186.8038",
+      "Rotation": "0, 0, 5.503187"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01684A:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0B1647:Fallout4.esm",
+      "RagdollData": [
+        {
+          "Unused": "0x000000",
+          "Rotation": "-0.0019666431, -1.2864242E-05, -5.84047E-06"
+        }
+      ],
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Scale": 0.75,
+      "Position": "1431.8748, 126.990074, 186.80402",
+      "Rotation": "0, 0, 5.503187"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01684B:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "059AFA:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1220.9514, -481.90314, 89.72145",
+      "Rotation": "0.00023038346, 6.2825027, 0.06749188"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01684C:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "140B1A:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1221.1467, -482.62885, 91.064835",
+      "Rotation": "6.2809024, 6.2808394, 6.282712"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01684E:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "173F02:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1074.5946, -570.1089, 179.96153",
+      "Rotation": "3.132161, 0.59795326, 4.5593896"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01684F:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1A0B13:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1090.2954, -574.54254, 166.99693",
+      "Rotation": "6.2803264, 6.2513084, 4.896214"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016850:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "1A0B14:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1091.9625, -569.8813, 167.80043",
+      "Rotation": "0.07326368, 6.2784624, 0.07449589"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016851:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "059B27:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "946.9051, -554.38983, 65.96784",
+      "Rotation": "4.1887903E-05, 6.2829547, 4.157212"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016854:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "22B626:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1040.7294, -565.76306, 164.75253"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016855:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "22B626:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1027.3163, -566.2433, 164.75589"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016856:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "22B623:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1037.4583, -564.8749, 178.144",
+      "Rotation": "6.255019, 1.526266, 6.254768"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016857:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "22B623:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1009.734, -565.94604, 164.75914",
+      "Rotation": "0.0008290314, 0.00017104227, 5.1656947"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016858:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "22B628:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1049.1073, -572.03766, 171.079",
+      "Rotation": "0.00096516707, 5.7527814, 4.708179"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016859:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "22B628:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "993.655, -573.89813, 164.7555",
+      "Rotation": "0.0016196655, 6.2829776, 4.6811023"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01685B:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "22B626:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1087.1979, -570.1225, 172.74237",
+      "Rotation": "6.258831, 5.799577, 4.7630525"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01685D:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "01F8F9:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1224.8947, -467.51773, 165.30815",
+      "Rotation": "5.5475535, 0.0950995, 0.8868524"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01685F:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0657FE:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "966.33136, -427.8152, 179.16986",
+      "Rotation": "6.229434, 0.0041224677, 0.21761113"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016860:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0211CC:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1222.8861, -455.6436, 161.54677",
+      "Rotation": "0.08273558, 0.0020018925, 1.5369875"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016863:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "060EC7:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1012.3822, -524.9391, 83.5244",
+      "Rotation": "0.019547688, 0.02014808, 6.256972"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016864:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "060EC7:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1059.5991, -540.0551, 84.40762",
+      "Rotation": "3.1613967, 6.2632203, 0.9679491"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016868:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "020194:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1221.6327, -445.5085, 89.77004",
+      "Rotation": "6.2830315, 6.283044, 2.303182"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01686D:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "14A138:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "983.6215, -492.69315, 72.68202",
+      "Rotation": "4.7109036, 1.21987, 3.138259"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01686E:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "14A138:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "956.1098, -499.89932, 69.54688",
+      "Rotation": "6.281384, 6.280012, 6.2016993"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016871:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0DEDED:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "953.17426, -485.4003, 73.694214",
+      "Rotation": "5.5461082, 4.866915, 4.5502057"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016872:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0DEDE0:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "972.0957, -477.43283, 69.09482",
+      "Rotation": "1.5703757, 6.2688003, 4.71046"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016873:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0DEDE1:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "980.8505, -502.43417, 70.563385",
+      "Rotation": "0.033953633, 0.26959577, 0.50455374"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016874:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0DEDDF:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "960.4332, -492.5693, 77.53142",
+      "Rotation": "5.7709694, 4.8771043, 0.8485546"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01687A:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0211C4:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1227.8096, -455.0279, 89.72235",
+      "Rotation": "6.281295, 6.281089, 2.9444768"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01687B:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0366C4:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1225.0278, -439.25314, 113.03021",
+      "Rotation": "6.282164, 6.2810836, 1.1831954"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01687C:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0366C1:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1224.9996, -449.50995, 113.02137",
+      "Rotation": "6.2813597, 6.2830386, 2.9633265"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01687D:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "145857:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1224.638, -472.50342, 113.031235",
+      "Rotation": "4.014257E-05, 6.282445, 1.6432012"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01687E:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "145857:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1225.0597, -481.88663, 113.021324",
+      "Rotation": "0.0010402162, 0.0012199851, 2.2850566"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01687F:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0366C3:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1218.7162, -454.6555, 113.030304",
+      "Rotation": "6.2827263, 6.2816772, 0.9538102"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016881:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "145857:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1219.1116, -483.70514, 116.26085",
+      "Rotation": "4.712321, 0.0015446163, 3.1433623"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016882:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "145857:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1171.0968, -318.4594, 142.86835",
+      "Rotation": "6.2825603, 0.0010943214, 0.13999984"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016884:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0330EE:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1178.1033, -356.21515, 112.58225",
+      "Rotation": "0.91607964, 0.58859307, 5.3396688"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016885:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0330EE:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1168.1443, -343.21802, 103.426895",
+      "Rotation": "0.0043929936, 6.264695, 1.1563784"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016886:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0330EE:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1164.3787, -343.1214, 112.58139",
+      "Rotation": "6.2726207, 0.013929472, 6.2831554"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016887:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0330EE:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1154.5247, -330.73978, 116.065865",
+      "Rotation": "4.7093644, 0.84383523, 6.2806997"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016889:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0330EE:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1182.2422, -363.61786, 121.314575",
+      "Rotation": "3.039744, 0.10112263, 4.144148"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01688A:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0366C0:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1222.6559, -399.33047, 104.050575",
+      "Rotation": "0.0014940018, 6.2820177, 3.6246753"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01688B:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0366C0:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1227.912, -406.3191, 104.040886",
+      "Rotation": "0.0017261306, 6.2818675, 6.2718563"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01688C:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0366C0:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1220.7031, -412.75464, 104.03862",
+      "Rotation": "0.0005707226, 0.0020071287, 1.07998"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01688F:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0330F2:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1219.3849, -504.91928, 98.22092",
+      "Rotation": "1.5710127, 5.3398767, 6.2797785"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016891:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0330EE:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "963.88684, -514.76385, 66.01246",
+      "Rotation": "6.2820387, 6.281344, 5.3631854"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016892:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0330EE:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "968.0798, -514.27295, 78.72204",
+      "Rotation": "4.7138777, 6.2564764, 6.2818604"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "016893:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "058AA3:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1195.1172, -372.34634, 75.91776",
+      "Rotation": "4.8869217E-05, 6.282326, 5.1712112"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01A5CE:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "060E96:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "970.75543, -518.37445, 82.280205",
+      "Rotation": "0.0053476887, 0.0013439035, 5.0031276"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01A5CF:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0FFE09:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1220.3428, -470.2649, 90.51097",
+      "Rotation": "0.020172516, 0.067744955, 1.842593"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01F22F:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "02FBE4:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1225.7361, -405.36456, 75.83272",
+      "Rotation": "0.00017104227, 0.002666863, 0.040002946"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01F230:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0F932C:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1219.7443, -391.6305, 75.83517",
+      "Rotation": "6.2815866, 0.0020874138, 5.5159435"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01F231:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0F932D:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1223.7695, -396.13623, 75.83385",
+      "Rotation": "6.28114, 6.2818413, 5.8393373"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01F233:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "0366C4:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1216.6866, -400.26163, 79.07686",
+      "Rotation": "1.5711087, 0.46137604, 0.00027925268"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01F9D4:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "11EA9E:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1018.70416, -224.06934, 66.45767",
+      "Rotation": "6.262391, 6.272865, 0.10048209"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01F9D5:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "11EA9E:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1025.5859, -233.2907, 68.834076",
+      "Rotation": "5.060643, 4.7292333, 1.1998842"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01F9D6:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "11EA9E:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1026.8857, -218.06993, 69.055466",
+      "Rotation": "4.701367, 5.1166997, 1.5594778"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01F9D7:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "11EA9B:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1024.1086, -220.97276, 69.08019",
+      "Rotation": "4.695548, 0.09569117, 4.711441"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "01F9D8:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 1073741824,
+      "Fallout4MajorRecordFlags": [
+        "0x40000000"
+      ],
+      "Base": "11EA9C:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Ownership": {
+        "Owner": "002CC6:Fallout4.esm"
+      },
+      "Position": "1026.4576, -226.31754, 69.632",
+      "Rotation": "5.5302625, 4.9839587, 0.027577946"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02090E:DCVendorClutter.esp",
+      "Base": "02090D:DCVendorClutter.esp",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Position": "1072.6182, -104.013565, 153.15363"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021842:DCVendorClutter.esp",
+      "Base": "035A0D:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "Position": "979.56824, -570.3831, 65.9673"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021843:DCVendorClutter.esp",
+      "Base": "035A0F:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "Position": "973.48975, -564.96545, 65.96735",
+      "Rotation": "0, 0, 5.183186"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021845:DCVendorClutter.esp",
+      "Base": "02FACD:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "Position": "973.43176, -564.8142, 68.43826"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021846:DCVendorClutter.esp",
+      "Base": "02FACC:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "Position": "979.593, -570.54083, 68.64231"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021848:DCVendorClutter.esp",
+      "Base": "15A0A7:Fallout4.esm",
+      "Layer": "02184C:DCVendorClutter.esp",
+      "Position": "980.9575, -404.6617, 147.56104",
+      "Rotation": "0, 0, 5.383187"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "021849:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 256,
+      "Fallout4MajorRecordFlags": [
+        "0x100"
+      ],
+      "Base": "08ADFA:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Position": "981.6536, -404.9463, 164.03296"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02184A:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 256,
+      "Fallout4MajorRecordFlags": [
+        "0x100"
+      ],
+      "Base": "10B0F2:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Position": "1053.3759, -375.1513, 162.19774"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "02184B:DCVendorClutter.esp",
+      "MajorRecordFlagsRaw": 256,
+      "Fallout4MajorRecordFlags": [
+        "0x100"
+      ],
+      "Base": "10B0F2:Fallout4.esm",
+      "Layer": "003DD4:DCVendorClutter.esp",
+      "Position": "1030.8116, -447.23508, 161.05334"
+    }
+  ],
+  "MajorFlags": [
+    "NoPreVis",
+    "0x40000"
+  ]
+}

@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/.gitattributes
+!/build.json
+!/plugin-source/
+!/plugin-source/**
+!/Diamond\ City\ Vendor\ Clutter\ -\ Lite.manifest.json

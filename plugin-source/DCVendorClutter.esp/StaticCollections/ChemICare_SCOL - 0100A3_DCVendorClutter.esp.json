@@ -1,0 +1,227 @@
+{
+  "FormKey": "0100A3:DCVendorClutter.esp",
+  "EditorID": "ChemICare_SCOL",
+  "ObjectBounds": {
+    "First": "-149, -73, -49",
+    "Second": "155, 129, 131"
+  },
+  "Model": {
+    "File": "SCOL\\DCVendorClutter_Original.esp\\CM000100A3.NIF",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Filter": "creodron",
+  "Parts": [
+    {
+      "Static": "0F0D41:Fallout4.esm",
+      "Placements": [
+        {
+          "Position": "-77.266846, -3.15094, 74.86865",
+          "Rotation": "6.1577325, 6.226013, 3.585688",
+          "Scale": 0.51
+        }
+      ]
+    },
+    {
+      "Static": "062307:Fallout4.esm",
+      "Placements": [
+        {
+          "Position": "-73.637695, -4.3078, 15.174683",
+          "Rotation": "6.223186, 0, 0",
+          "Scale": 0.65
+        }
+      ]
+    },
+    {
+      "Static": "09B064:Fallout4.esm",
+      "Placements": [
+        {
+          "Position": "99.89404, -4.859009, 8.613525",
+          "Rotation": "1.5857258, 0.004363323, 3.089217",
+          "Scale": 1.0
+        }
+      ]
+    },
+    {
+      "Static": "1ABE37:Fallout4.esm",
+      "Placements": [
+        {
+          "Position": "102.573, 72.838806, 46.85022",
+          "Rotation": "0, 0, 1.520002",
+          "Scale": 1.05
+        }
+      ]
+    },
+    {
+      "Static": "1AE1F4:Fallout4.esm",
+      "Placements": [
+        {
+          "Position": "100.241455, 23.632202, 105.01807",
+          "Scale": 1.0
+        }
+      ]
+    },
+    {
+      "Static": "1A62BC:Fallout4.esm",
+      "Placements": [
+        {
+          "Position": "-81.416504, -0.332794, 110.16748",
+          "Rotation": "0.054377478, 0.45393744, 0.005801474",
+          "Scale": 0.8
+        }
+      ]
+    },
+    {
+      "Static": "19D7DA:Fallout4.esm",
+      "Placements": [
+        {
+          "Position": "63.229736, 4.698059, 103.871216",
+          "Rotation": "0, 0, 4.7000003",
+          "Scale": 1.0
+        }
+      ]
+    },
+    {
+      "Static": "0399ED:Fallout4.esm",
+      "Placements": [
+        {
+          "Position": "-77.799805, 0.026184, 58.539795",
+          "Rotation": "6.2431684, 6.281698, 3.1463556",
+          "Scale": 0.68
+        }
+      ]
+    },
+    {
+      "Static": "062308:Fallout4.esm",
+      "Placements": [
+        {
+          "Position": "-99.57446, 8.734497, -48.16736",
+          "Rotation": "0, 0, 0.22000049",
+          "Scale": 0.48
+        }
+      ]
+    },
+    {
+      "Static": "0C9A5D:Fallout4.esm",
+      "Placements": [
+        {
+          "Position": "-77.3938, 19.188354, 62.976196",
+          "Rotation": "1.7453292E-06, 0, 0",
+          "Scale": 0.52
+        },
+        {
+          "Position": "-77.51514, 18.316223, 81.92615",
+          "Rotation": "1.7453292E-06, 0, 0",
+          "Scale": 0.52
+        },
+        {
+          "Position": "-78.21777, 19.465637, 44.916138",
+          "Rotation": "1.7453292E-06, 0, 0",
+          "Scale": 0.52
+        }
+      ]
+    },
+    {
+      "Static": "19D7D8:Fallout4.esm",
+      "Placements": [
+        {
+          "Position": "-53.115234, 3.319763, 62.71411",
+          "Rotation": "6.2829375, 6.2761235, 4.762834",
+          "Scale": 0.52
+        },
+        {
+          "Position": "-53.236572, 2.447388, 81.66431",
+          "Rotation": "6.2829375, 6.2761235, 4.762834",
+          "Scale": 0.52
+        },
+        {
+          "Position": "-53.93921, 3.596802, 44.65381",
+          "Rotation": "6.2829375, 6.2761235, 4.762834",
+          "Scale": 0.52
+        },
+        {
+          "Position": "-99.97217, 3.430481, 62.623657",
+          "Rotation": "6.2829375, 6.2761235, 4.762834",
+          "Scale": 0.52
+        },
+        {
+          "Position": "-100.093506, 2.558167, 81.57349",
+          "Rotation": "6.2829375, 6.2761235, 4.762834",
+          "Scale": 0.52
+        },
+        {
+          "Position": "-100.79614, 3.707611, 44.563354",
+          "Rotation": "6.2829375, 6.2761235, 4.762834",
+          "Scale": 0.52
+        }
+      ]
+    },
+    {
+      "Static": "093E2B:Fallout4.esm",
+      "Placements": [
+        {
+          "Position": "-116.22046, 87.99689, 100.278076",
+          "Rotation": "0, 0, 4.463187",
+          "Scale": 1.0
+        }
+      ]
+    },
+    {
+      "Static": "12B954:Fallout4.esm",
+      "Placements": [
+        {
+          "Rotation": "5.330017, 4.8348465, 0.95671266",
+          "Scale": 0.19
+        }
+      ]
+    },
+    {
+      "Static": "0C5747:Fallout4.esm",
+      "Placements": [
+        {
+          "Position": "-103.36987, 18.47406, -48.65332",
+          "Scale": 1.0
+        }
+      ]
+    },
+    {
+      "Static": "19D7DB:Fallout4.esm",
+      "Placements": [
+        {
+          "Position": "127.26587, 7.72522, 103.89111",
+          "Rotation": "0, 0, 4.700002",
+          "Scale": 1.0
+        },
+        {
+          "Position": "-1.002441, 7.539124, 103.69226",
+          "Rotation": "0, 0, 4.700002",
+          "Scale": 1.0
+        }
+      ]
+    },
+    {
+      "Static": "062306:Fallout4.esm",
+      "Placements": [
+        {
+          "Position": "-72.750244, 53.440308, -47.79419",
+          "Rotation": "0, 0, 4.523188",
+          "Scale": 0.6
+        }
+      ]
+    },
+    {
+      "Static": "112617:Fallout4.esm",
+      "Placements": [
+        {
+          "Position": "14.566162, 18.721802, 107.35852",
+          "Rotation": "1.5676931, 5.099559, 3.7577443",
+          "Scale": 0.27
+        },
+        {
+          "Position": "24.191406, 15.740112, 110.323364",
+          "Rotation": "0.95725375, 1.0204346, 0.8049528",
+          "Scale": 0.27
+        }
+      ]
+    }
+  ]
+}
