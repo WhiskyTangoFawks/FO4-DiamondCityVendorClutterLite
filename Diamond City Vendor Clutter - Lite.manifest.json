@@ -1,6 +1,3 @@
 {
-"version":1,
-"packages":[
-{"kind":"installationFile","name":"DC Vendor Clutter - Interiors Only Patch-65196-1-1666113189.7z","packageVersion":"1.0.0.0","size":113957,"hash":"LwqUqBuguXA=","host":{"nexus":{"game":"fallout4","mod":65196,"file":253813}}}
-]
+"version":1
 }
